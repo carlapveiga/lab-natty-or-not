@@ -20,22 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Podcast: Multiverso dos dados - Explorando Estatística em Infinitas Realidades
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de um podcast curto sobre estatística descritiva com uma temática nerd.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leonardo IA
+Chatgpt 
+ElevenLab 
+Capcut
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Leonardo IA foi usado para fazer a imagem do podcast. Usei o Chatgpt para criação do roteiro com a criação de um prompt bastante assertivo.
+O ElevenLab foi usado para conversão de texto para aúdio com o roteiro do podcast e o Capcut para edição do áudio.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi um podcast que apesar de simples ficou com um roteiro bem interessante sobre um tema que eu gosto, gostei muito da experiência.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
 ```
 
 ### Exemplos e Insigths
